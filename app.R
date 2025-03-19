@@ -7,10 +7,11 @@ library(shiny)
 library(sortable)
 library(stringr)
 library(tidyverse)
-library(shinyjs)  # Add shinyjs for easier DOM manipulation
+library(shinyjs)
 
 
-
+# Import data ----
+## Web scrapping of data is in datasets.R file
 all_courses_uo <- data.table::fread(here("datasets/all_course_uo.csv"), header = TRUE, showProgress = F)
 cds_progression <- data.table::fread(here("datasets/cds_progression.csv"), header = TRUE, showProgress = F)
 departments <- data.table::fread(here("datasets/departments.csv"), header = TRUE, showProgress = F)[,2]
@@ -20,20 +21,19 @@ uo_lang <- import(here("datasets/uo_lang.xlsx"))
 
 # USER INTERFACE ----
 ui <- tagList(
+  
+  ## Initial setup ----
   tags$style(HTML("
     .nav-link {
       font-size: 15px !important;
-    }
-  ")),
-  
+    }  ")), 
+
   div(
     style = "background: linear-gradient(to bottom, #005020 0%, #007030 100%); padding: 30px; position: relative;",
     
     
-    # Logo aligned to the left
     img(src = "uo-logo-white.png", height = "auto", style = "max-height: 60px;"),
     
-    # Links box aligned to the top right, now arranged horizontally
     div(
       style = "position: absolute; right: 0px; top: 0%; ;
               background-color: #005020; padding: 8px 30px; border-radius: 8px;
@@ -143,7 +143,7 @@ ui <- tagList(
               )
     ),
     
-    ## Page 2: Selection ----
+    ## Selection Page----
     nav_panel("Course Selection",
               useShinyjs(),  # Initialize shinyjs
               
@@ -165,10 +165,20 @@ ui <- tagList(
                 ),
                 column(width = 9, 
                        h4("Now it’s time to map out your courses! Drag and drop the courses you have taken or plan to take into the appropriate term boxes. At the bottom, you'll find an example course progression to guide you in structuring your schedule. Use this tool to ensure a balanced workload each term and to stay on track for graduation."),
-                       h4(a("Duck on Track", href = "https://advising.uoregon.edu/ducksontrack", target = "_blank"), "is another useful tool to check your progress toward requirement completion"))
+                       h4(a("Duck on Track", href = "https://advising.uoregon.edu/ducksontrack", style = "color: #007030;", target = "_blank"), "is another useful tool to check your progress toward requirement completion"))
               ),
 
               fluidRow( #1
+                
+                tags$style(HTML("
+
+                      /* When an item is dragged */
+                      .sortable-chosen {
+                        background-color: #d4edda !important; /* Light green */
+                        border: 2px solid #28a745 !important; /* Darker green border */
+                      }
+                    ")), 
+                
                 div(
                   class = "bucket-list-container default-sortable",
                   
@@ -287,10 +297,10 @@ ui <- tagList(
                              tabsetPanel(
                                          tabPanel("UO Requirement",
                                                   tableOutput("uo_requirement_check"),
-                                                  a("For more information, go to the UO requirement page", href = "https://registrar.uoregon.edu/graduation/degree-requirements", target = "_blank"),),
+                                                  a("For more information, go to the UO requirement page", href = "https://registrar.uoregon.edu/graduation/degree-requirements", style = "color: #007030;",target = "_blank"),),
                                          tabPanel("CDS Requirement",
                                                   tableOutput("cds_requirement_check"),
-                                                  a("For more information, go to the CDS page", href = "https://education.uoregon.edu/cds/undergraduate/ba", target = "_blank"),),)
+                                                  a("For more information, go to the CDS page", href = "https://education.uoregon.edu/cds/undergraduate/ba", style = "color: #007030;",target = "_blank"),),)
                              )
                     )
                     
@@ -362,7 +372,7 @@ ui <- tagList(
     
     
     
-    ## Page 3: Course Planner ----
+    ## Course Output Page ----
     # nav_panel("Course Planner", 
     #           layout_sidebar(
     #             sidebar = sidebarPanel(
@@ -427,7 +437,7 @@ ui <- tagList(
 
 
 
-# Define Server Logic ----
+# SERVER ----
 server <- function(input, output, session) {
   
   ## Page 1 ----
