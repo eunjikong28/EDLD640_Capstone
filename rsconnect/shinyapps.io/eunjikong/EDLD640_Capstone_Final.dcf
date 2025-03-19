@@ -5,7 +5,7 @@ account: eunjikong
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14281051
-bundleId: 9967788
+bundleId: 9967999
 url: https://eunjikong.shinyapps.io/EDLD640_Capstone_Final/
 version: 1
 asMultiple: FALSE
