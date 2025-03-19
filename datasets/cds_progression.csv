@@ -1,0 +1,66 @@
+code,title,credits,year,term,fulfill,prereq,term_code,label,color,identifier,identifier1
+BI 121,Introduction to Human Physiology,4,1,Fall,"CDS: Area B, UO SC",,1,"BI 121 
+ Introduction to Human Physiology",#489D46,1,Fall_1
+WR 121,College Composition I,4,1,Fall,UO writing,,1,"WR 121 
+ College Composition I",#489D46,2,Fall_2
+,First term of first-year second-language sequence,5,1,Fall,UO lang,,1,First term of first-year second-language sequence,#489D46,3,Fall_3
+,Elective course,4,1,Fall,,,1,Elective course,#489D46,4,Fall_4
+MATH 243,Introduction to Methods of Probability and Statistics or other to fulfill Area B: Statistics,4,1,Winter,"CDS: Area B, UO SC",,2,"MATH 243 
+ Introduction to Methods of Probability and Statistics or other to fulfill Area B: Statistics",#E2E11B,1,Winter_1
+PHYS 152,Physics of Sound and Music,4,1,Winter,"CDS: Area B, UO SC",,2,"PHYS 152 
+ Physics of Sound and Music",#E2E11B,2,Winter_2
+WR 122,College Composition II,4,1,Winter,UO writing,WR 121,2,"WR 122 
+ College Composition II",#E2E11B,3,Winter_3
+,Second term of first-year second-language sequence,5,1,Winter,UO lang,,2,Second term of first-year second-language sequence,#E2E11B,4,Winter_4
+PSY 202,Mind and Society,4,1,Spring,"CDS: Area B, UO SSC",,3,"PSY 202 
+ Mind and Society",#8ABB40,1,Spring_1
+,Third term of first-year second-language sequence,5,1,Spring,UO lang,,3,Third term of first-year second-language sequence,#8ABB40,2,Spring_2
+,General education course in arts and letters,4,1,Spring,UO AL,,3,General education course in arts and letters,#8ABB40,3,Spring_3
+,General education course in science,4,1,Spring,UO SC,,3,General education course in science,#8ABB40,4,Spring_4
+CDS 201,Communication Disorders in Society and Media 1,4,2,Fall,CDS: Area A,,1,"CDS 201 
+ Communication Disorders in Society and Media 1",#489D46,1,Fall_1
+LING 150,Structure of English Words,4,2,Fall,"CDS: Area A, UO AL",,1,"LING 150 
+ Structure of English Words",#489D46,2,Fall_2
+,First term of second-year second-language sequence,4,2,Fall,UO lang,,1,First term of second-year second-language sequence,#489D46,3,Fall_3
+,General education course in global perspectives,4,2,Fall,UO CL,,1,General education course in global perspectives,#489D46,4,Fall_4
+,Second term of second-year second-language sequence,4,2,Winter,UO lang,,2,Second term of second-year second-language sequence,#E2E11B,1,Winter_1
+,General-education course in social science,4,2,Winter,UO SSC,,2,General-education course in social science,#E2E11B,2,Winter_2
+,General-education courses in arts and letters,4,2,Winter,UO AL,,2,General-education courses in arts and letters,#E2E11B,3,Winter_3
+,General-education courses in arts and letters,4,2,Winter,UO AL,,2,General-education courses in arts and letters,#E2E11B,4,Winter_4
+CDS 430,Speech Pathology-Audiology as Professions,2,2,Spring,CDS: Area A,,3,"CDS 430 
+ Speech Pathology-Audiology as Professions",#8ABB40,1,Spring_1
+,Third term of second-year second-language sequence,4,2,Spring,UO lang,,3,Third term of second-year second-language sequence,#8ABB40,2,Spring_2
+,General-education course in social science,4,2,Spring,UO SSC,,3,General-education course in social science,#8ABB40,3,Spring_3
+,Elective courses,4,2,Spring,,,3,Elective courses,#8ABB40,4,Spring_4
+CDS 442,Anatomy and Physiology of Speech Mechanism 1,4,3,Fall,CDS: Area A,,1,"CDS 442 
+ Anatomy and Physiology of Speech Mechanism 1",#489D46,1,Fall_1
+CDS 450,Introduction to Language Development,4,3,Fall,CDS: Area A,"LING 150, WR 122",1,"CDS 450 
+ Introduction to Language Development",#489D46,2,Fall_2
+,General-education course in social science,4,3,Fall,UO SSC,,1,General-education course in social science,#489D46,3,Fall_3
+CDS 451,Later Language Development,4,3,Winter,CDS: Area A,CDS 450,2,"CDS 451 
+ Later Language Development",#E2E11B,1,Winter_1
+,"General education course in US: Difference, Inequality & Agency",4,3,Winter,UO CL,,2,"General education course in US: Difference, Inequality & Agency",#E2E11B,2,Winter_2
+,Elective courses in CDS: Area C,4,3,Winter,CDS: Area C,,2,Elective courses in CDS: Area C,#E2E11B,3,Winter_3
+CDS 444,Clinical Phonetics and Phonology,4,3,Spring,CDS: Area A,"CDS 442, CDS 450",3,"CDS 444 
+ Clinical Phonetics and Phonology",#8ABB40,1,Spring_1
+CDS 457,Fundamentals of Audiology,4,3,Spring,CDS: Area A,,3,"CDS 457 
+ Fundamentals of Audiology",#8ABB40,2,Spring_2
+,Elective courses (upper),4,3,Spring,,,3,Elective courses (upper),#8ABB40,3,Spring_3
+,Elective course,4,3,Spring,,,3,Elective course,#8ABB40,4,Spring_4
+CDS 458,Audiology Disorders and Treatment,4,4,Fall,CDS: Area A,CDS 457,1,"CDS 458 
+ Audiology Disorders and Treatment",#489D46,1,Fall_1
+CDS 460,Developmental Disorders in Communication,4,4,Fall,CDS: Area A,CDS 450,1,"CDS 460 
+ Developmental Disorders in Communication",#489D46,2,Fall_2
+,Elective courses (upper),4,4,Fall,,,1,Elective courses (upper),#489D46,3,Fall_3
+CDS 470,Neuroscience of Speech and Language,4,4,Winter,CDS: Area A,"CDS 442, CDS 450",2,"CDS 470 
+ Neuroscience of Speech and Language",#E2E11B,1,Winter_1
+,Elective course,4,4,Winter,,,2,Elective course,#E2E11B,2,Winter_2
+CDS 455,Child and Adolescent Development,4,4,Winter,CDS: Area A,,2,"CDS 455 
+ Child and Adolescent Development",#E2E11B,3,Winter_3
+,Elective courses (upper),4,4,Winter,,,2,Elective courses (upper),#E2E11B,4,Winter_4
+CDS 431,Beginning Clinical Methods,3,4,Spring,CDS: Area A,CDS430,3,"CDS 431 
+ Beginning Clinical Methods",#8ABB40,1,Spring_1
+CDS 462,Acquired Disorders of Communication,4,4,Spring,CDS: Area A,CDS 470,3,"CDS 462 
+ Acquired Disorders of Communication",#8ABB40,2,Spring_2
+,Elective courses (upper),4,4,Spring,,,3,Elective courses (upper),#8ABB40,3,Spring_3
+,Elective course,4,4,Spring,,,3,Elective course,#8ABB40,4,Spring_4

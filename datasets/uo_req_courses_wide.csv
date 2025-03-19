@@ -1,0 +1,848 @@
+"Subject","CourseNumber","title","requirements","course_code","Requirements2","AC","AL","GP","IC","IP","SC","SSC","US"
+"AFR","215","Introduction to African Studies","SSC, IC, GP","AFR 215","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","110","Introduction to Traditional Ecological Knowledge","SC, IC, GP","ANTH 110","SC, IC, GP",NA,NA,"GP","IC",NA,"SC",NA,NA
+"ANTH","114","Anthropology of Pirates and Piracy","SSC, IC, GP","ANTH 114","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","119","Anthropology and Aliens","SSC","ANTH 119","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"ANTH","145","Principles of Archaeology","SC","ANTH 145","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","150","World Archaeology","SSC, IC, GP","ANTH 150","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","161","Introduction to Cultural Anthropology","SSC, IC, GP","ANTH 161","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","163","Origins of Storytelling","SC, IC, GP","ANTH 163","SC, IC, GP",NA,NA,"GP","IC",NA,"SC",NA,NA
+"ANTH","165","Sexuality and Culture","SSC, IP, GP","ANTH 165","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"ANTH","170","Introduction to Human Origins","SC","ANTH 170","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","171","Introduction to Monkeys and Apes","SC","ANTH 171","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","173","Evolution of Human Sexuality","SC, IP, GP","ANTH 173","SC, IP, GP",NA,NA,"GP",NA,"IP","SC",NA,NA
+"ANTH","175","Evolutionary Medicine","SC","ANTH 175","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","176","Introduction to Forensic Anthropology","SC","ANTH 176","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","209","Business Anthropology","SSC, GP","ANTH 209","SocS, GP",NA,NA,"GP",NA,NA,NA,"SSC",NA
+"ANTH","220","Introduction to Nutritional Anthropology","SC, IC, GP","ANTH 220","SC, IC, GP",NA,NA,"GP","IC",NA,"SC",NA,NA
+"ANTH","223","Anthropology of Chocolate","SSC, IC, GP","ANTH 223","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","225","Evolution of Play","SC, IC, GP","ANTH 225","SC, IC, GP",NA,NA,"GP","IC",NA,"SC",NA,NA
+"ANTH","248","Archaeology of Wild Foods","SC, AC, US","ANTH 248","SC, AC, US","AC",NA,NA,NA,NA,"SC",NA,"US"
+"ANTH","255","Atlantis, Aliens, and Archaeology","SC","ANTH 255","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","260","Domestic Animals","SC","ANTH 260","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","270","Introduction to Biological Anthropology","SC","ANTH 270","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","274","Animals and People","SC, IC, GP","ANTH 274","SC, IC, GP",NA,NA,"GP","IC",NA,"SC",NA,NA
+"ANTH","278","Science, Race, and Society","SC, AC, US","ANTH 278","SC, AC, US","AC",NA,NA,NA,NA,"SC",NA,"US"
+"ANTH","311","Anthropology of Globalization","SSC, IC, GP","ANTH 311","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","315","Gender, Folklore, Inequality","SSC, IP, GP","ANTH 315","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"ANTH","320","Native North Americans","SSC, IP, US","ANTH 320","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"ANTH","322","Anthropology of the United States","SSC, AC, US","ANTH 322","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ANTH","329","Immigration and Farmworkers","SSC, IP, US","ANTH 329","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"ANTH","330","Hunters and Gatherers","SSC, IC, GP","ANTH 330","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","331","Cultures of India and South Asia","SSC, IC, GP","ANTH 331","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","332","Human Attraction and Mating Strategies","SC","ANTH 332","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","340","Fundamentals of Archaeology","SC","ANTH 340","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","341","Food Origins","SC","ANTH 341","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","342","Archaeology of Egypt and Near East","SSC, GP","ANTH 342","SocS, GP",NA,NA,"GP",NA,NA,NA,"SSC",NA
+"ANTH","343","Pacific Islands Archaeology","SSC, IC, GP","ANTH 343","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","344","Oregon Archaeology","SSC, AC, US","ANTH 344","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ANTH","345","Archaeology of East Asia","SSC","ANTH 345","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"ANTH","346","Archaeology of Southeast Asia","SSC, IC, GP","ANTH 346","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ANTH","349","Origins of Art","SC, IC, GP","ANTH 349","SC, IC, GP",NA,NA,"GP","IC",NA,"SC",NA,NA
+"ANTH","361","Human Evolution","SC","ANTH 361","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","362","Human Biological Variation","SC, IP, GP","ANTH 362","SC, IP, GP",NA,NA,"GP",NA,"IP","SC",NA,NA
+"ANTH","369","Human Growth and Development","SC","ANTH 369","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","373","Psychoactive Substances in Ancient Societies","SSC","ANTH 373","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"ANTH","376","Decoding Your Genome","SC","ANTH 376","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ANTH","413","Culture and Psychology","IC, GP","ANTH 413","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ANTH","420","Culture, Illness, and Healing","IC, GP","ANTH 420","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ANTH","425","Migrant, Citizen, Refugee","AC, US","ANTH 425","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ANTH","429","Jewish Folklore and Ethnology","IP, GP","ANTH 429","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"ANTH","430","Balkan Society and Folklore","IC, GP","ANTH 430","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ANTH","434","Native South Americans","IC, GP","ANTH 434","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ANTH","442","Northwest Coast Archaeology","AC, US","ANTH 442","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ANTH","443","North American Archaeology","IP, US","ANTH 443","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ANTH","448","Gender and Archaeology","IP, GP","ANTH 448","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"ARB","301","Language and Culture I","A&L, GP","ARB 301","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"ARB","302","Language and Culture II","A&L, GP","ARB 302","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"ARB","303","Language and Culture III","A&L, GP","ARB 303","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"ARB","331","Reading Classical Arabic","A&L","ARB 331","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARB","353","Arab Cinema","A&L, IC, GP","ARB 353","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","150","Introduction to Visual Culture","A&L","ARH 150","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","204","History of Western Art I","A&L","ARH 204","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","205","History of Western Art II","A&L","ARH 205","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","206","History of Western Art III","A&L","ARH 206","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","208","History of Chinese Art","A&L, IC, GP","ARH 208","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","209","History of Japanese Art","A&L, IC, GP","ARH 209","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","210","Contemporary Asian Art and Architecture","A&L, IC, GP","ARH 210","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","211","Survey of Latin American Arts","A&L, IC, GP","ARH 211","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","314","History of World Architecture I","A&L, IC, GP","ARH 314","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","315","History of World Architecture II","A&L, IC, GP","ARH 315","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","316","Gothic Architecture","A&L","ARH 316","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","317","Romanesque Architecture","A&L","ARH 317","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","321","Ancient Jewish Art","A&L, IC, GP","ARH 321","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","322","Ancient Greek Art & Architecture","A&L, IC, GP","ARH 322","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","325","Islamic Art & Architecture","A&L, IC, GP","ARH 325","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","327","Medieval Art","A&L","ARH 327","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","348","Rome in Age of Bernini","A&L","ARH 348","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","350","History of Manga","IC, GP","ARH 350","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ARH","351","19th-Century Art","A&L","ARH 351","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","352","Art of the Enlightenment","A&L","ARH 352","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","353","Modern Art, 1880?1950","A&L","ARH 353","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","354","Contemporary Art","A&L, IP, US","ARH 354","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"ARH","358","History of Design","A&L","ARH 358","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","359","History of Photography","A&L","ARH 359","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ARH","368","Arts and Visual Cultures of Climate Change","IC, GP","ARH 368","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ARH","372","Arts of Colonial Latin America","A&L, IC, GP","ARH 372","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","373","20th Century Latin American Art","AC, US","ARH 373","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ARH","382","Arts of the Silk Road","A&L, IC, GP","ARH 382","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","387","Chinese Buddhist Art","A&L, IC, GP","ARH 387","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ARH","421","Ancient Mediterranean Art: [Topic]","IC, GP","ARH 421","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ARH","481","Chinese Art: [Topic]","IC, GP","ARH 481","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ARH","485","Japanese Art: [Topic]","IC, GP","ARH 485","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ARH","488","Japanese Prints","IC, GP","ARH 488","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ART","101","Understanding Contemporary Art","A&L","ART 101","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ART","111","The Artist Experience","A&L","ART 111","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ASIA","111","Great Books on Modern Asia","A&L, IC, GP","ASIA 111","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ASIA","350","What Is Asia: Theoretical Debates","A&L, IC, GP","ASIA 350","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ASIA","425","Asian Foodways","IC, GP","ASIA 425","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"ASL","201","Second-Year American Sign Language","A&L","ASL 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ASL","202","Second-Year American Sign Language","A&L","ASL 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ASL","203","Second-Year American Sign Language","A&L","ASL 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ASL","301","American Deaf Culture","IP, US","ASL 301","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ASTR","121","The Solar System","SC","ASTR 121","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ASTR","122","Birth and Death of Stars","SC","ASTR 122","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ASTR","123","Galaxies and the Expanding Universe","SC","ASTR 123","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BA","101","Introduction to Business","SSC","BA 101","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"BA","252","Global Perspectives in Business","IC, GP","BA 252","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"BEHT","350","Diversity Equity and Inclusion Theory I","AC, US","BEHT 350","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"BI","121","Introduction to Human Physiology","SC","BI 121","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","122","Introduction to Human Genetics","SC","BI 122","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","123","Biology of Cancer","SC","BI 123","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","130","Introduction to Ecology","SC","BI 130","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","132","Introduction to Animal Behavior","SC","BI 132","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","140","Science, Policy, and Biology","SC","BI 140","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","150","The Ocean Planet","SC","BI 150","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","170","Happiness: a Neuroscience and Psychology Perspective","SC","BI 170","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","211","General Biology I: Cells","SC","BI 211","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","212","General Biology II: Organisms","SC","BI 212","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","213","General Biology III: Ecology and Evolution","SC","BI 213","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","214","General Biology IV: Biochemistry and Genetics","SC","BI 214","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","281H","Honors Biology I: Cells, Biochemistry and Physiology","SC","BI 281H","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","282H","Honors Biology II:  Genetics and Molecular Biology","SC","BI 282H","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","283H","Honors Biology III: Evolution, Diversity and Ecology","SC","BI 283H","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","307","Forest Biology","SC","BI 307","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BI","309","Tropical Diseases in Africa","IC, GP","BI 309","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"BI","357","Marine Biology","SC","BI 357","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"BLST","141","Writing in Black: [Topic]","AC, US","BLST 141","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"CDS","201","Communication Disorders in Society and Media","IP, US","CDS 201","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"CH","111","Introduction to Chemical Principles","SC","CH 111","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CH","113","The Chemistry of Sustainability","SC","CH 113","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CH","221","General Chemistry I","SC","CH 221","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CH","222","General Chemistry II","SC","CH 222","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CH","223","General Chemistry III","SC","CH 223","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CH","224H","Advanced General Chemistry I","SC","CH 224H","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CH","225H","Advanced General Chemistry II","SC","CH 225H","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CH","226H","Advanced General Chemistry III","SC","CH 226H","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CHN","150","Introduction to Chinese Narrative","A&L, IC, GP","CHN 150","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CHN","151","Introduction to Chinese Film","A&L, IC, GP","CHN 151","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CHN","152","Introduction to Chinese Popular Culture","A&L, IC, GP","CHN 152","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CHN","201","Second-Year Chinese","A&L, GP","CHN 201","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"CHN","202","Second-Year Chinese","A&L, GP","CHN 202","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"CHN","203","Second-Year Chinese","A&L, GP","CHN 203","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"CHN","204","Accelerated Second-Year Chinese I","A&L, GP","CHN 204","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"CHN","205","Accelerated Second-Year Chinese II","A&L, GP","CHN 205","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"CHN","206","Accelerated Second-Year Chinese III","A&L, GP","CHN 206","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"CHN","301","Third-Year Chinese","A&L","CHN 301","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CHN","302","Third-Year Chinese","A&L","CHN 302","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CHN","303","Third-Year Chinese","A&L","CHN 303","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CHN","305","History of Chinese Literature","A&L, IC, GP","CHN 305","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CHN","306","History of Chinese Literature II, The Imperial Age","A&L, IC, GP","CHN 306","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CHN","307","History of Chinese Literature","A&L, IC, GP","CHN 307","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CHN","308","Literature of Modern Taiwan","A&L, IC, GP","CHN 308","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CHN","350","Gender and Sexuality in Traditional Chinese Literature","A&L, IP, GP","CHN 350","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"CHN","351","Gender and Sexuality in Modern Chinese Literature","A&L, IP, GP","CHN 351","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"CHN","380","Self and Society in Traditional Chinese Literature","A&L","CHN 380","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CHN","452","Chinese Film and Theory","IC, GP","CHN 452","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"CINE","110M","Introduction to Film and Media","A&L","CINE 110M","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","111","How to Watch TV","A&L","CINE 111","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","151M","Introduction to Korean Cinema","A&L, IC, GP","CINE 151M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CINE","230","Remix Cultures","A&L","CINE 230","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","265","History of the Motion Picture I","A&L","CINE 265","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","266","History of the Motion Picture II","A&L","CINE 266","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","267","History of the Motion Picture III","A&L","CINE 267","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","268","United States Television History","A&L","CINE 268","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","335","Exhibition and Audiences","A&L","CINE 335","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","340","Production Studies","A&L","CINE 340","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","345","Stars","A&L","CINE 345","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","350","Queer European Cinema","A&L, IP, GP","CINE 350","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"CINE","362M","Contemporary Korean Film","A&L, IC, GP","CINE 362M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CINE","365","Digital Cinema","A&L","CINE 365","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CINE","381M","Film, Media, and Culture","A&L, IP, GP","CINE 381M","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"CLAS","110","Classical Mythology","A&L, IP, GP","CLAS 110","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"CLAS","188","Introduction to Classical Archaeology","SSC","CLAS 188","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"CLAS","201","Greek Life and Culture","A&L, IC, GP","CLAS 201","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CLAS","202","Roman Life and Culture","A&L","CLAS 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CLAS","301","Greek and Roman Epic","A&L","CLAS 301","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CLAS","302","Greek and Roman Tragedy","A&L","CLAS 302","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CLAS","303","Classical Greek Philosophers","A&L","CLAS 303","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"CLAS","310","Early China, Ancient Greece","A&L, IC, GP","CLAS 310","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CLAS","311","Death and Rebirth in Greece and India","A&L, IC, GP","CLAS 311","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"CLAS","314","Gender and Sexuality in Antiquity","A&L, IP, GP","CLAS 314","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"COLT","101","Introduction to Comparative Literature","A&L, IP, GP","COLT 101","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"COLT","102","Introduction to Comparative Literature","A&L, IC, GP","COLT 102","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"COLT","103","Introduction to Comparative Literature","A&L, IC, GP","COLT 103","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"COLT","211","Comparative World Literature","A&L, IC, GP","COLT 211","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"COLT","212","Comparative World Cinema","A&L, IC, GP","COLT 212","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"COLT","213","United States Culture in Comparative Contexts","A&L, AC, US","COLT 213","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"COLT","231","Literature and Society","A&L, IC, GP","COLT 231","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"COLT","232","Literature and Film","A&L, IC, GP","COLT 232","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"COLT","301","Approaches to Comparative Literature","A&L, IP, GP","COLT 301","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"COLT","305","Cultural Studies","A&L, IC, GP","COLT 305","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"COLT","360","Gender and Identity in Literature","A&L, IP, GP","COLT 360","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"COLT","370","Comparative Comics","A&L, IP, GP","COLT 370","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"COLT","390","Comparing Identities, Agencies and Differences","A&L, AC, US","COLT 390","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"CS","102","Fundamentals of Computer and Information Security","SC","CS 102","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CS","110","Fluency with Information Technology","SC","CS 110","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CS","111","Introduction to Web Programming","SC","CS 111","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CS","122","Introduction to Programming and Problem Solving","SC","CS 122","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CS","210","Computer Science I","SC","CS 210","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CS","211","Computer Science II","SC","CS 211","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"CS","212","Computer Science III","SC","CS 212","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"DAN","241","Screendance: History and Theory","A&L","DAN 241","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"DAN","251","Looking at Dance","A&L","DAN 251","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"DAN","260","Anatomy of Human Movement","SC","DAN 260","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"DAN","301","African Dance Aesthetics","A&L, IC, GP","DAN 301","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"DSCI","101","Foundations of Data Science I","SC","DSCI 101","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"EALL","209","Languages and Societies in East Asia","A&L, IC, GP","EALL 209","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"EALL","211","Japan: A Cultural Odyssey","A&L, IC, GP","EALL 211","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"EC","101","Contemporary Economic Issues","SSC","EC 101","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","201","Introduction to Economic Analysis: Microeconomics","SSC","EC 201","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","202","Introduction to Economic Analysis: Macroeconomics","SSC","EC 202","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","327","Introduction to Game Theory","SSC","EC 327","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","328","Behavioral Economics and Its Applications","SSC","EC 328","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","330","Urban and Regional Economic Problems","SSC, IP, US","EC 330","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"EC","333","Resource and Environmental Economic Issues","SSC","EC 333","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","340","Issues in Public Economics","SSC","EC 340","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","350","Labor Market Issues","SSC","EC 350","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","360","Issues in Industrial Organization","SSC","EC 360","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","370","Money and Banking","SSC","EC 370","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","380","International Economic Issues","SSC","EC 380","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EC","390","Problems and Issues in the Developing Economies","SSC, IC, GP","EC 390","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"EC","430","Urban and Regional Economics","IP, US","EC 430","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"EC","490","Economic Growth and Development","IC, GP","EC 490","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"EDST","111","Education and Social Change","SSC","EDST 111","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"EDST","225","School and Representation in Media","AC, US","EDST 225","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ENG","104","Introduction to Literature: Fiction","A&L","ENG 104","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","105","Introduction to Literature: Drama","A&L","ENG 105","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","106","Introduction to Literature: Poetry","A&L","ENG 106","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","107","World Literature","A&L, IC, GP","ENG 107","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ENG","108","World Literature","A&L, IC, GP","ENG 108","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ENG","110M","Introduction to Film and Media","A&L","ENG 110M","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","207","Shakespeare","A&L","ENG 207","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","208","Shakespeare","A&L","ENG 208","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","225","Age of King Arthur","A&L","ENG 225","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","230","Introduction to Environmental Literature","A&L","ENG 230","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","240","Introduction to Disability Studies","A&L, IP, US","ENG 240","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"ENG","241","Introduction to African American Literature","A&L, IP, US","ENG 241","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"ENG","242","Introduction to Asian American Literature","A&L, IP, US","ENG 242","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"ENG","243","Introduction to Chicano and Latino Literature","A&L, IP, US","ENG 243","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"ENG","244","Introduction to Native American Literature","A&L, IP, US","ENG 244","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"ENG","250","Literature and Digital Culture","A&L","ENG 250","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","280","Introduction to Comic Studies","A&L","ENG 280","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","304","English Major Foundations: Context","A&L","ENG 304","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","305","English Major Foundations: Theory","A&L","ENG 305","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","315","Women Writers' Cultures: [Topic]","IP","ENG 315","IP",NA,NA,NA,NA,"IP",NA,NA,NA
+"ENG","316","Women Writers' Forms: [Topic]","IP, US","ENG 316","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ENG","321","English Novel","A&L","ENG 321","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","322","English Novel","A&L","ENG 322","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","323","English Novel Conrad to Present","A&L","ENG 323","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","330","Oral Controversy and Advocacy","A&L","ENG 330","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","335","Inventing Arguments","A&L","ENG 335","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","340","Jewish Writers","A&L, IP, GP","ENG 340","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"ENG","360","African American Writers","IP, US","ENG 360","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ENG","361","Native American Writers","IP, US","ENG 361","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ENG","363","Chicano and Latino Writers","IP, US","ENG 363","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ENG","365","Global Literatures in English","A&L, IC, GP","ENG 365","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ENG","381M","Film, Media, and Culture","A&L, IP, GP","ENG 381M","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"ENG","385","Graphic Narratives and Cultural Theory","A&L","ENG 385","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","386","Bodies in Comics","A&L, IP, US","ENG 386","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"ENG","391","American Novel","A&L","ENG 391","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","392","American Novel","A&L","ENG 392","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","394","20th-Century Literature","A&L","ENG 394","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","395","20th-Century Literature","A&L","ENG 395","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENG","496","Feminist Film Criticism: [Topic]","IP, US","ENG 496","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ENVS","201","Introduction to Environmental Studies: Social Sciences","SSC","ENVS 201","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"ENVS","202","Introduction to Environmental Studies: Natural Sciences","SC","ENVS 202","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ENVS","203","Introduction to Environmental Studies: Humanities","A&L","ENVS 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ENVS","225","Introduction to Food Studies","SSC, IC, GP","ENVS 225","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"ENVS","335","Allocating Scarce Environmental Resources","SSC","ENVS 335","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"ENVS","345","Environmental Ethics","A&L","ENVS 345","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ERTH","101","Exploring Planet Earth","SC","ERTH 101","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","102","Exploring Earth?s Environment","SC","ERTH 102","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","103","Exploring Earth History","SC","ERTH 103","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","110","People, Rocks, and Fire","SC","ERTH 110","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","137","Mountains and Glaciers","SC","ERTH 137","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","156M","Scientific Revolutions","SC","ERTH 156M","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","201","Dynamic Planet Earth","SC","ERTH 201","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","202","Earth's Surface and Environment","SC","ERTH 202","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","203","History of Life","SC","ERTH 203","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","213","Geology of National Parks","SC","ERTH 213","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","304","The Fossil Record","SC","ERTH 304","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","305","Dinosaurs","SC","ERTH 305","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","306","Volcanoes and Earthquakes","SC","ERTH 306","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","307","Oceanography","SC","ERTH 307","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","308","Geology of Oregon and the Pacific Northwest","SC","ERTH 308","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","310","Earth Resources and the Environment","SC","ERTH 310","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","337","Introduction to Physical Oceanography","SC","ERTH 337","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ERTH","353","Geologic Hazards","SC","ERTH 353","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"ES","101","Introduction to Ethnic Studies","SSC, AC, US","ES 101","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ES","250","Introduction to Black Studies","SSC, AC, US","ES 250","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ES","252","Introduction to Asian American Studies","SSC, AC, US","ES 252","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ES","254","Introduction to Chicanx and Latinx Studies","SSC, AC, US","ES 254","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ES","256","Introduction to Native American Studies","SSC, AC, US","ES 256","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ES","258","Introduction to Pacific Islander Studies","SSC, AC, US","ES 258","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ES","310","Race and Popular Culture: [Topic]","IP, US","ES 310","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ES","321","Indigenous Peoples of Oregon","SSC, AC, US","ES 321","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ES","330","Women of Color: Issues and Concerns","AC, US","ES 330","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ES","350","Native Americans and the Environment","IP, US","ES 350","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ES","352","Social Equity and Criminal Justice","SSC, IP, US","ES 352","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"ES","354","Environmental Racism","SSC, AC, US","ES 354","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ES","360","Black Sexual Politics","AC, US","ES 360","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ES","370","Race, Ethnicity, and Cinema: [Topic]","IP, US","ES 370","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ES","380","Race, Migration, and Rights","SSC, AC, US","ES 380","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"ES","440","Race, Literature, and Culture: [Topic]","IP, US","ES 440","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ES","456","History of Native American Education","IP, US","ES 456","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"ES","464","Relational Studies of Indigeneity, Race and Culture: [Topic]","AC, US","ES 464","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ES","465","Feminist Theories of Race: [Topic]","AC, US","ES 465","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ES","466","Native American Ethnohistory","AC, US","ES 466","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ES","468","Indigenous Research Methods and Ethics","AC, US","ES 468","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"ES","470","Native American and Indigenous Feminisms","AC, US","ES 470","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"FHS","213","Issues for Children and Families","SSC","FHS 213","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"FHS","216","Diversity in Human Services","IP, US","FHS 216","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"FLR","225","Voices of Africa","A&L, IC, GP","FLR 225","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"FLR","235","Folklore and the Supernatural","A&L","FLR 235","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FLR","236","Magic in the Middle Ages","A&L","FLR 236","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FLR","250","Introduction to Folklore","A&L, IP, US","FLR 250","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"FLR","255","Folklore and United States Popular Culture","A&L, IP, US","FLR 255","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"FLR","320","Car Cultures","A&L","FLR 320","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FLR","350","Folklore and the Bible","A&L","FLR 350","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FLR","411","Folklore and Religion","IC, GP","FLR 411","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"FR","150","Cultural Legacies of France","A&L, IC, GP","FR 150","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"FR","201","Second-Year French","A&L","FR 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FR","202","Second-Year French","A&L","FR 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FR","203","Second-Year French","A&L","FR 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FR","301","La France contemporaine","A&L, IC, GP","FR 301","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"FR","302","Culture et langage: Le monde francophone contemporain","A&L, IC, GP","FR 302","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"FR","312","French Survey: Francophone Literature","A&L, IC, GP","FR 312","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"FR","317","French Survey: Medieval and Renaissance","A&L","FR 317","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FR","318","Monarchy, Liberty, Revolution","A&L","FR 318","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FR","319","French Survey: 19th and 20th Centuries","A&L","FR 319","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FR","330","French Poetry","A&L","FR 330","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FR","331","French Theater","A&L","FR 331","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FR","333","French Narrative","A&L","FR 333","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"FR","361","French Cinema for Nonmajors","A&L, IC, GP","FR 361","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"FR","362","French Film","A&L, IC, GP","FR 362","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GEOG","141","The Natural Environment","SC","GEOG 141","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"GEOG","142","Human Geography","SSC, IC, GP","GEOG 142","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GEOG","181","Our Digital Earth","SSC","GEOG 181","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"GEOG","201","World Regional Geography","SSC, IC, GP","GEOG 201","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GEOG","202","Geography of Europe","SSC, IC, GP","GEOG 202","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GEOG","208","Geography of the United States and Canada","SSC, AC, US","GEOG 208","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"GEOG","209","Geography of the Middle East and North Africa","SSC, IC, GP","GEOG 209","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GEOG","250","Geographies of Outdoor Adventure","SSC","GEOG 250","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"GEOG","321","Climatology","SC","GEOG 321","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"GEOG","322","Geomorphology","SC","GEOG 322","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"GEOG","323","Biogeography","SC","GEOG 323","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"GEOG","341","Population and Environment","SSC, IC, GP","GEOG 341","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GEOG","342","Geography of Globalization","SSC","GEOG 342","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"GEOG","343","Society, Culture, and Place","SSC, IP, GP","GEOG 343","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"GEOG","360","Watershed Science and Policy","SC","GEOG 360","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"GEOG","361","Global Environmental Change","SC","GEOG 361","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"GEOG","391","Social Science Inquiry and Research","SSC","GEOG 391","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"GEOG","441","Political Geography","IP, GP","GEOG 441","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"GEOG","444","Cultural Geography","IP, GP","GEOG 444","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"GEOG","465","Environment and Development","IC, GP","GEOG 465","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GEOG","471","North American Historical Landscapes","AC, US","GEOG 471","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"GER","201","Second-Year German I","A&L","GER 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GER","202","Second-Year German II","A&L, GP","GER 202","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"GER","203","Second-Year German III","A&L, GP","GER 203","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"GER","220M","From Kierkegaard to Kafka","A&L, IC, GP","GER 220M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GER","221","Postwar Germany: Nation Divided","A&L, IC, GP","GER 221","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GER","222","Voices of Dissent in Germany","A&L, IP, GP","GER 222","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"GER","223","Germany: A Multicultural Society","A&L, IP, GP","GER 223","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"GER","250","The Culture of Money","A&L, IC, GP","GER 250","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GER","251","Sexuality","A&L, IP, GP","GER 251","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"GER","252","War, Violence, Trauma","A&L, IC, GP","GER 252","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GER","280M","The Quality of Life in Germany and Scandinavia","A&L, IC, GP","GER 280M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GER","311","Intermediate Language Training","A&L","GER 311","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GER","312","Intermediate Language Training","A&L","GER 312","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GER","313","Intermediate Language Training","A&L","GER 313","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GER","345M","Food, Culture, and Identity in Germany and Scandinavia","A&L, IC, GP","GER 345M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GER","351","Diversity in Germany","A&L, IP, GP","GER 351","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"GER","354","German Gender Studies","A&L, IP, GP","GER 354","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"GER","355","German Cinema: History, Theory, Practice","A&L, IC, GP","GER 355","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GER","356","German Fairy Tales","A&L, IC, GP","GER 356","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GER","357","Nature, Culture, and the Environment","A&L, IC, GP","GER 357","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"GER","360","Introduction to German Literature: Poetry, Plays, Prose","A&L","GER 360","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GER","361","Introduction to German Literature: Literary Movements","A&L","GER 361","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GER","362","Introduction to German Literature: Interpretive Models","A&L","GER 362","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GER","366","Themes in German Literature","A&L","GER 366","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GER","367","Themes in German Literature","A&L","GER 367","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GER","368","Themes in German Literature","A&L","GER 368","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GLBL","101","Introduction to International Issues","SSC, IC, GP","GLBL 101","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GLBL","102","Foundations for Intercultural Competence","SSC, GP","GLBL 102","SocS, GP",NA,NA,"GP",NA,NA,NA,"SSC",NA
+"GLBL","230","Global Wellbeing","SSC, IC, GP","GLBL 230","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GLBL","240","Perspectives on International Development","SSC, IC, GP","GLBL 240","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GLBL","250","Value Systems in Cross-Cultural Perspective","SSC, IC, GP","GLBL 250","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GLBL","260","Culture, Capitalism, and Globalization","SSC, IC, GP","GLBL 260","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GLBL","270","Globalization and the Global Economy","SSC, IC, GP","GLBL 270","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GLBL","280","Global Environmental Issues and Alternatives","SSC","GLBL 280","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"GLBL","323","Islam and Global Forces","IC, GP","GLBL 323","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GLBL","340","Global Health and Development","SSC, IC, GP","GLBL 340","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"GLBL","345","Africa Today: Issues and Concerns","IC, GP","GLBL 345","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GLBL","350","Education and Development","SSC, GP","GLBL 350","SocS, GP",NA,NA,"GP",NA,NA,NA,"SSC",NA
+"GLBL","360","International Cooperation and Conflict","SSC, IP, GP","GLBL 360","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"GLBL","370","International Human Rights","SSC, GP","GLBL 370","SocS, GP",NA,NA,"GP",NA,NA,NA,"SSC",NA
+"GLBL","415","The Global Story of Race","IC, GP","GLBL 415","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GLBL","421","Gender and International Development","GP","GLBL 421","GP",NA,NA,"GP",NA,NA,NA,NA,NA
+"GLBL","423","Development and the Muslim World","IC, GP","GLBL 423","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GLBL","431","Cross-Cultural Communication","IC, GP","GLBL 431","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GLBL","432","Indigenous Cultural Survival","IC, GP","GLBL 432","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GLBL","433","Childhood in Cross-Cultural Perspective","IP, GP","GLBL 433","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"GLBL","442","South Asia: Development and Social Change","IC, GP","GLBL 442","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GLBL","444","Development and Social Change in Southeast Asia","IC, GP","GLBL 444","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GLBL","445","Development and Social Change in Sub-Saharan Africa","IC, GP","GLBL 445","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"GRK","301","Authors: [Topic]","A&L","GRK 301","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GRK","302","Authors: [Topic]","A&L","GRK 302","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"GRK","303","Authors: [Topic]","A&L","GRK 303","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HC","221H","Arts and Letters Inquiry: [Topic]","A&L","HC 221H","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HC","222H","Honors College Arts and Letters","A&L","HC 222H","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HC","223H","Honors College Arts and Letters","A&L","HC 223H","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HC","231H","Social Science Inquiry: [Topic]","SSC","HC 231H","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HC","232H","Honors College Social Science","SSC","HC 232H","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HC","233H","Honors College Social Science","SSC","HC 233H","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HC","241H","Scientific Inquiry: [Topic]","SC","HC 241H","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"HC","434H","Honors College Global Perspectives Colloquium: [Topic]","IC, GP","HC 434H","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HC","444H","HC US: Difference, Inequality, Agency Colloquium: [Topic]","AC, US","HC 444H","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"HIST","102","Making Modern Europe","SSC","HIST 102","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","103","Europe and the World","SSC","HIST 103","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","104","World History","SSC, IC, GP","HIST 104","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","105","World History","SSC, IC, GP","HIST 105","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","106","World History","SSC, IC, GP","HIST 106","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","186","Cultures of India","SSC, IC, GP","HIST 186","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","190","Foundations of East Asian Civilizations","SSC, IC, GP","HIST 190","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","191","China, Past and Present","SSC, IC, GP","HIST 191","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","192","Japan, Past and Present","SSC, IC, GP","HIST 192","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","201","Inventing America","SSC, AC, US","HIST 201","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","202","Building the United States","SSC, AC, US","HIST 202","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","203","American Century","SSC, AC, US","HIST 203","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","211","Reacting to the Past","SSC","HIST 211","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","215","Food in World History","SSC, IC, GP","HIST 215","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","221","Sex in History","SSC, IP, GP","HIST 221","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"HIST","240","War in the Modern World I","SSC","HIST 240","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","241","War in the Modern World II","SSC","HIST 241","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","245","Russia, America, and the World","SSC","HIST 245","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","248","Latinos in the Americas","SSC, AC, US","HIST 248","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","250","African American History","SSC, AC, US","HIST 250","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","251","African American History","SSC, AC, US","HIST 251","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","273","Introduction to Global Environmental History","SSC, IC, GP","HIST 273","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","286","Cities in India and South Asia","SSC, IP, GP","HIST 286","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"HIST","301","Modern Europe","SSC","HIST 301","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","302","Modern Europe","SSC","HIST 302","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","303","Modern Europe","SSC","HIST 303","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","308","History of Women in the United States I","SSC, US","HIST 308","SocS, US",NA,NA,NA,NA,NA,NA,"SSC","US"
+"HIST","309","History of Women in the United States II","SSC, IP, US","HIST 309","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"HIST","317","Migrants and Refugees in Modern World History","SSC, IC, GP","HIST 317","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","320","High Middle Ages in Europe","SSC","HIST 320","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","321","Late Middle Ages in Europe","SSC","HIST 321","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","325","Precolonial Africa","SSC, IC, GP","HIST 325","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","326","Colonial and Postcolonial Africa","SSC, IC, GP","HIST 326","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","340","US Military History","SSC","HIST 340","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","346","Imperial Russia","SSC, IC, GP","HIST 346","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","347","Soviet Union and Contemporary Russia","SSC, IC, GP","HIST 347","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","352","The United States in the 1960s","SSC","HIST 352","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","361","Early Modern Science","SSC","HIST 361","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"HIST","362","History of US Cities","SSC, AC, US","HIST 362","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","368","American West in Popular Culture","SSC, AC, US","HIST 368","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","378","American Environmental History to 1890","SSC, AC, US","HIST 378","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","379","American Environmental History, 1890-Present","SSC, AC, US","HIST 379","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"HIST","380","Latin America","SSC, IC, GP","HIST 380","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","381","Latin America","SSC, IC, GP","HIST 381","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","382","Latin America, 1910 to the Present","SSC, IC, GP","HIST 382","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","383","Soccer and Society in Latin America","SSC, IC, GP","HIST 383","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","386","India","IP, GP","HIST 386","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"HIST","387","Early China","SSC, IC, GP","HIST 387","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","388","Vietnam War and the United States","IP, US","HIST 388","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"HIST","396","Samurai in Film","SSC, IC, GP","HIST 396","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"HIST","414","Ancient Rome: [Topic]","IP, GP","HIST 414","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"HIST","415","Advanced World History: [Topic]","IC, GP","HIST 415","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HIST","416","Advanced Women's History: [Topic]","IC, GP","HIST 416","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HIST","417","Society and Culture in Modern Africa: [Topic]","IC, GP","HIST 417","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HIST","444","The Holocaust","IP, GP","HIST 444","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"HIST","446","Modern Russia: [Topic]","IC, GP","HIST 446","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HIST","449","Race and Ethnicity in the American West","AC, US","HIST 449","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"HIST","455","Colonial American History","AC, US","HIST 455","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"HIST","469","American Indian History: [Topic]","IP, US","HIST 469","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"HIST","483","Latin America: [Topic]","IC, GP","HIST 483","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HIST","487","China: [Topic]","IC, GP","HIST 487","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HIST","490","Japan: [Topic]","IC, GP","HIST 490","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HIST","491","Medicine and Society in Premodern Japan","IC, GP","HIST 491","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HIST","497","Culture, Modernity, and Revolution in China: [Topic]","IC, GP","HIST 497","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HIST","498","Early Japanese Culture and Society: [Topic]","IC, GP","HIST 498","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"HPHY","105","Principles of Nutrition","SC","HPHY 105","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"HPHY","212","Scientific Investigation in Physiology","SC","HPHY 212","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"HUM","101","Introduction to the Humanities I","A&L","HUM 101","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HUM","102","Introduction to the Humanities II","A&L","HUM 102","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HUM","103","Introduction to the Humanities III","A&L","HUM 103","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HUM","240","Medical Humanities","A&L","HUM 240","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HUM","245","Food, Art, and Literature","A&L","HUM 245","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HUM","260","Postwar European Culture","A&L","HUM 260","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HUM","300","Themes in the Humanities","A&L","HUM 300","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"HUM","361","Ancient Science and Culture","A&L","HUM 361","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ICH","201","Second-Year Ichishki'in","A&L","ICH 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ICH","202","Second-Year Ichishki'in","A&L","ICH 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ICH","203","Second-Year Ichishki'in","A&L","ICH 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ITAL","150","Cultural Legacies of Italy","A&L, IC, GP","ITAL 150","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ITAL","152","Desire and Resistance: Italian Cinema","A&L, IC, GP","ITAL 152","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ITAL","201","Second-Year Italian","A&L","ITAL 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ITAL","202","Second-Year Italian","A&L","ITAL 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ITAL","203","Second-Year Italian","A&L","ITAL 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ITAL","252","The Italian-American Experience","A&L, AC, US","ITAL 252","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"ITAL","301","Cultura e lingua: l'Italia contemporanea","A&L, IC, GP","ITAL 301","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ITAL","303","Cultura e lingua: societa, economia, politica","A&L, IC, GP","ITAL 303","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ITAL","305","Cultura e lingua: arte, musica, i mass media","A&L, IC, GP","ITAL 305","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ITAL","306","La cultura culinaria","A&L, IC, GP","ITAL 306","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"ITAL","317","Italian Survey: Medieval and Renaissance","A&L","ITAL 317","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ITAL","318","Italian Survey: Baroque and Enlightenment","A&L","ITAL 318","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ITAL","319","Italian Survey: 19th and 20th Centuries","A&L","ITAL 319","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"ITAL","350","Global Histories of Italian Food","A&L, IC, GP","ITAL 350","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"J","201","Media and Society","SSC","J 201","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"J","320","Gender, Media, and Diversity","IP, US","J 320","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"J","385","Communication Law","SSC","J 385","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"J","387","Media History","SSC","J 387","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"J","397","Media Ethics","A&L","J 397","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"JDST","212","Medieval and Early Modern Judaism","A&L, IP, GP","JDST 212","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"JDST","213","The Jewish Encounter with Modernity","A&L, IP, US","JDST 213","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"JDST","330","American Jewish Cultures","SSC, IP, US","JDST 330","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"JDST","352","Jewish Literature and Culture","A&L","JDST 352","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"JDST","353","Jewish Image and Media","A&L, US","JDST 353","A&L, US",NA,"AL",NA,NA,NA,NA,NA,"US"
+"JDST","354","Jewish Thought and History","A&L","JDST 354","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"JPN","201","Second-Year Japanese","A&L","JPN 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"JPN","202","Second-Year Japanese","A&L","JPN 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"JPN","203","Second-Year Japanese","A&L","JPN 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"JPN","250","Manga Millennium","A&L, IC, GP","JPN 250","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"JPN","301","Third-Year Japanese","A&L","JPN 301","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"JPN","302","Third-Year Japanese","A&L","JPN 302","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"JPN","303","Third-Year Japanese","A&L","JPN 303","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"JPN","305","Introduction to Japanese Literature","A&L, IC, GP","JPN 305","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"JPN","306","Introduction to Japanese Literature","A&L, IC, GP","JPN 306","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"JPN","307","Introduction to Japanese Literature","A&L, IC, GP","JPN 307","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"JPN","315","Introduction to Japanese Linguistics","A&L, IC, GP","JPN 315","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"JPN","425","Modern Japanese Literature: [Topic]","IC, GP","JPN 425","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"JPN","437","Classical Japanese Literary Language","IC, GP","JPN 437","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"JPN","471","The Japanese Cinema","IC, GP","JPN 471","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"KRN","151M","Introduction to Korean Cinema","A&L, IC, GP","KRN 151M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"KRN","201","Second-Year Korean","A&L","KRN 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"KRN","202","Second-Year Korean","A&L","KRN 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"KRN","203","Second-Year Korean","A&L","KRN 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"KRN","301","Third Year Korean","A&L","KRN 301","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"KRN","302","Third-Year Korean","A&L","KRN 302","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"KRN","303","Third-Year Korean","A&L","KRN 303","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"KRN","309","Languages and Cultural Formation in Korea","A&L, IC, GP","KRN 309","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"KRN","315","Introduction to Korean Linguistics","A&L, IC, GP","KRN 315","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"KRN","361","Korean Popular Culture and Transnationalism","A&L, IC, GP","KRN 361","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"KRN","362M","Contemporary Korean Film","A&L, IC, GP","KRN 362M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"LA","260","Understanding Landscapes","A&L","LA 260","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"LA","375","Contemporary American Landscape","A&L","LA 375","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"LAS","200","Introduction to Latin American Studies","IC, GP","LAS 200","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"LAS","211","Latin American Humanities: [Topic]","IC, GP","LAS 211","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"LAT","301","Authors: [Topic]","A&L","LAT 301","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"LAT","302","Authors: [Topic]","A&L","LAT 302","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"LAT","303","Authors: [Topic]","A&L","LAT 303","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"LAW","102","Introduction to Criminal Law","SSC","LAW 102","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LAW","104","Introduction to Business Law","SSC","LAW 104","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LAW","201","Introduction to Environmental Law and Policy","SSC","LAW 201","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LAW","202","Introduction to Public International Law","SSC","LAW 202","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LAW","203","Controversies in Constitutional Law","SSC","LAW 203","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LAW","204","Immigration and Citizenship","SSC, IP, US","LAW 204","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"LAW","301","Youth and Social Change","SSC, IP, US","LAW 301","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"LING","101","Introduction to Language","SSC","LING 101","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LING","144","Learning How To Learn Languages","SSC","LING 144","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LING","150","Structure of English Words","A&L","LING 150","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"LING","201","Language and Power in the United States","SSC, IP, US","LING 201","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"LING","211","Languages of the World","SSC, IC, GP","LING 211","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"LING","225","Writing Systems","A&L","LING 225","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"LING","294","Child Language","SSC","LING 294","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LING","296","Language and Society in the United States","SSC, AC, US","LING 296","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"LING","297","Introduction to Bilingualism","SSC, IP, US","LING 297","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"LING","301","Introduction to Linguistics Analysis","SSC","LING 301","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LING","302","Introduction to Linguistic Behavior","SSC","LING 302","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LING","312","Morphosyntax","SSC","LING 312","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"LING","491","Sociolinguistics","IP, GP","LING 491","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"MATH","105Z","Math in Society","SC","MATH 105Z","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","106","University Mathematics II","SC","MATH 106","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","107","University Mathematics III","SC","MATH 107","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","211","Fundamentals of Elementary Mathematics I","SC","MATH 211","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","212","Fundamentals of Elementary Mathematics II","SC","MATH 212","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","213","Fundamentals of Elementary Mathematics III","SC","MATH 213","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","231","Elements of Discrete Mathematics I","SC","MATH 231","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","232","Elements of Discrete Mathematics II","SC","MATH 232","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","241","Calculus for Business and Social Science I","SC","MATH 241","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","242","Calculus for Business and Social Science II","SC","MATH 242","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","246","Calculus for the Biological Sciences I","SC","MATH 246","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","247","Calculus for the Biological Sciences II","SC","MATH 247","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","251","Calculus I","SC","MATH 251","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","252","Calculus II","SC","MATH 252","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","253","Calculus III","SC","MATH 253","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","261","Calculus with Theory I","SC","MATH 261","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","262","Calculus with Theory II","SC","MATH 262","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","263","Calculus with Theory III","SC","MATH 263","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","307","Introduction to Proof","SC","MATH 307","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MATH","343","Statistical Models and Methods","SC","MATH 343","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"MENA","111","Media Coverage of the Middle East","A&L, IC, GP","MENA 111","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"MUJ","350","History of Jazz, 1900?1950","A&L, AC, US","MUJ 350","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"MUJ","351","History of Jazz, 1940 to Present","A&L, AC, US","MUJ 351","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"MUS","125","Understanding Music","A&L","MUS 125","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"MUS","141","Popular Piano and Musicianship I","AC, US","MUS 141","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"MUS","151","Popular Songwriting","A&L, AC, US","MUS 151","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"MUS","227","Elements of Electronic Music","A&L","MUS 227","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"MUS","250","Popular Musics in Global Context","IP, GP","MUS 250","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"MUS","263","US Popular Music 1800 to 1930","A&L, AC, US","MUS 263","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"MUS","264","US Popular Music 1930 to 1965","A&L, AC, US","MUS 264","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"MUS","265","US Popular Music 1965 to 2000","A&L, AC, US","MUS 265","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"MUS","270","History of the Blues","A&L, AC, US","MUS 270","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"MUS","281","Music of the Woodstock Generation","IP, US","MUS 281","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"MUS","351","The Music of Bach and Handel","A&L","MUS 351","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"MUS","358","Music in World Cultures","A&L, IC, GP","MUS 358","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"MUS","359","Music of the Americas","A&L, AC, US","MUS 359","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"MUS","360","Hip-Hop Music: History, Culture, Aesthetics","A&L, AC, US","MUS 360","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"MUS","363","The Beatles and Their Times","A&L","MUS 363","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"MUS","365","Regional Ethnomusicology: [Topic]","IC, GP","MUS 365","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"MUS","367","Survey of African Music","A&L, IC, GP","MUS 367","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"MUS","380","Film Music","A&L","MUS 380","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"MUS","382","American Musical Theater","A&L","MUS 382","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"MUS","436","World Music Ensemble: [Topic]","GP","MUS 436","GP",NA,NA,"GP",NA,NA,NA,NA,NA
+"MUS","451","Introduction to Ethnomusicology","IC, GP","MUS 451","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"MUS","452","Musical Instruments of the World","IC, GP","MUS 452","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"MUS","462","Popular Musics in the African Diaspora","IP, GP","MUS 462","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"PHIL","101","Philosophical Problems","A&L","PHIL 101","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","102","Ethics","A&L, AC, US","PHIL 102","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"PHIL","103","Critical Reasoning","A&L","PHIL 103","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","104","History of Western Philosophy","A&L","PHIL 104","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","110","Human Nature","A&L, IP, GP","PHIL 110","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"PHIL","120","Ethics of Enterprise and Exchange","A&L","PHIL 120","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","123","Internet, Society, and Philosophy","SSC","PHIL 123","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PHIL","130","Philosophy and Popular Culture","A&L","PHIL 130","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","135","Ethics in the Life Sciences","A&L","PHIL 135","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","170","Love and Sex","A&L, IP, GP","PHIL 170","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"PHIL","211","Existentialism","A&L","PHIL 211","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","216","Philosophy and Cultural Diversity","A&L, AC, US","PHIL 216","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"PHIL","220","Food Ethics","A&L","PHIL 220","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","223","Data Ethics","SSC","PHIL 223","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PHIL","225","Introduction to Formal Logic","A&L","PHIL 225","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","307","Social and Political Philosophy","SSC","PHIL 307","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PHIL","309","Global Justice","SSC, IC, GP","PHIL 309","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"PHIL","310","History of Philosophy: Ancient and Medieval","A&L","PHIL 310","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","311","History of Philosophy: Modern","A&L","PHIL 311","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","312","History of Philosophy: 19th Century","A&L","PHIL 312","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","315","Introduction to Feminist Philosophy","A&L, US","PHIL 315","A&L, US",NA,"AL",NA,NA,NA,NA,NA,"US"
+"PHIL","322","Philosophy of the Arts","A&L","PHIL 322","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","332","Philosophy of Film","A&L","PHIL 332","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","335","Medical Ethics","A&L","PHIL 335","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","339","Introduction to Philosophy of Science","SSC","PHIL 339","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PHIL","340","Environmental Philosophy","A&L, IC, GP","PHIL 340","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"PHIL","341","African Philosophy","A&L, GP","PHIL 341","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"PHIL","342","Introduction to Latin American Philosophy","A&L, IC, GP","PHIL 342","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"PHIL","343","Critical Theory","SSC, IP, GP","PHIL 343","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"PHIL","344","Introduction to Philosophy of Law","SSC","PHIL 344","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PHIL","345","Place in the Cosmos","A&L","PHIL 345","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PHIL","452","Philosophy and Race","IP, US","PHIL 452","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"PHYS","101","Essentials of Physics","SC","PHYS 101","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","152","Physics of Sound and Music","SC","PHYS 152","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","153","Physics of Light, Color, and Vision","SC","PHYS 153","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","155","Physics behind the Internet","SC","PHYS 155","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","156M","Scientific Revolutions","SC","PHYS 156M","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","161","Physics of Energy and Environment","SC","PHYS 161","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","162","Solar and Other Renewable Energies","SC","PHYS 162","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","171","The Physics of Life","SC","PHYS 171","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","181","Quantum Mechanics for Everyone","SC","PHYS 181","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","201","General Physics","SC","PHYS 201","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","202","General Physics","SC","PHYS 202","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","203","General Physics","SC","PHYS 203","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","251","Foundations of Physics I","SC","PHYS 251","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","252","Foundations of Physics I","SC","PHYS 252","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PHYS","253","Foundations of Physics I","SC","PHYS 253","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PORT","201","Second Year Portuguese","A&L","PORT 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PORT","202","Second-Year Portuguese","A&L","PORT 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PORT","203","Second-Year Portuguese","A&L","PORT 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"PORT","301","Cultura e Lingua: Expressoes Artisticas","A&L, IC, GP","PORT 301","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"PORT","305","Cultura e lingua: Brasil ontem e hoje","A&L, IC, GP","PORT 305","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"PPPM","101","Advocacy and Social Change","SSC, AC, US","PPPM 101","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"PPPM","201","Introduction to Public Policy","SSC, AC, US","PPPM 201","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"PPPM","202","Healthy Communities","SSC, AC, US","PPPM 202","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"PPPM","205","Introduction to City Planning","SSC","PPPM 205","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PPPM","250","Arts and Human Values","A&L, AC, US","PPPM 250","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"PPPM","280","Introduction to the Nonprofit Sector","SSC","PPPM 280","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PPPM","321","Inclusive Urbanism","SSC, AC, US","PPPM 321","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"PPPM","340","Climate-Change Policy","SSC","PPPM 340","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PPPM","360","International Public Policy","SSC, IC, GP","PPPM 360","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"PPPM","370","Global Sustainable Development and Policy","IC, GP","PPPM 370","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"PS","102","Thinking Like a Social Scientist","SSC","PS 102","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","106","Power, Politics, and Inequality","SSC, IP, US","PS 106","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"PS","111","Introduction to Political Science","SSC","PS 111","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","201","United States Politics","SSC","PS 201","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","205","Introduction to International Relations","SSC","PS 205","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","206","Ethics, Identity, and Power","SSC, AC, US","PS 206","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"PS","210","Politics of Business","SSC","PS 210","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","275","Legal Process An Introduction to the American Judiciary","SSC","PS 275","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","302","States' Rights and Wrongs","SSC","PS 302","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","304","Democracy, Dictators, and Development","SSC, IC, GP","PS 304","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"PS","309","Political Ideologies","SSC","PS 309","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","310","Roots of Democracy","SSC","PS 310","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","311","Sovereignty and Revolution","SSC","PS 311","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","312","Shadows of Modernity","SSC","PS 312","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","316","Black Lives Matter and American Democracy","SSC, AC, US","PS 316","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"PS","319","The Politics of the Body","SSC, AC, US","PS 319","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"PS","324","European Politics","SSC, IP, GP","PS 324","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"PS","326","United States Foreign Policy I","SSC","PS 326","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","330","Governments and Politics in Latin America","SSC, IC, GP","PS 330","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"PS","337","The Politics of Development","SSC, IC, GP","PS 337","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"PS","342","Politics of China","IC, GP","PS 342","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"PS","345","Southeast Asian Politics","SSC, IC, GP","PS 345","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"PS","347","Political Power, Influence, and Control","SSC","PS 347","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","348","Women and Politics","IP, US","PS 348","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"PS","349","Mass Media and American Politics","SSC","PS 349","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","352","Political Parties and Elections","SSC","PS 352","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","367","Politics, Science, and Climate Change","SSC","PS 367","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","368","Gender in the Law","IP, US","PS 368","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"PS","371","United States Congress","SSC","PS 371","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","372","Music and Politics","AC, US","PS 372","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"PS","375","Race, Politics, and the Law","SSC, AC, US","PS 375","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"PS","380","Gender and Politics in Developing Countries","SSC, IP, GP","PS 380","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"PS","384","Nuclear Politics of the Middle East","SSC","PS 384","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PS","386","United States Social Movements and Political Change","SSC, IP, US","PS 386","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"PS","387","Russian Politics","SSC, IC, GP","PS 387","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"PS","390","American Indian Politics","SSC, AC, US","PS 390","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"PS","391","Non-Western Political Theory","SSC, IC, GP","PS 391","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"PS","449","Racial Politics in the United States","AC, US","PS 449","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"PSY","201","Mind and Brain","SC","PSY 201","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PSY","202","Mind and Society","SSC","PSY 202","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"PSY","301","Scientific Thinking in Psychology","SC","PSY 301","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PSY","306","Social Psychology","IP, US","PSY 306","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"PSY","348","Music and the Brain","SC","PSY 348","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"PSY","366","Culture and Mental Health","SSC, IP, GP","PSY 366","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"PSY","380","Psychology of Gender","SSC, IP, US","PSY 380","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"REL","101","World Religions: Asian Traditions","A&L, IC, GP","REL 101","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"REL","102","World Religions: Near Eastern Traditions","A&L, IP, GP","REL 102","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"REL","211","Early Judaism","SSC, IP, GP","REL 211","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"REL","222","Introduction to the Bible I","A&L","REL 222","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"REL","223","Introduction to the Bible II","A&L","REL 223","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"REL","233","Introduction to Islam","A&L, IP, GP","REL 233","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"REL","302","Chinese Religions","SSC, IC, GP","REL 302","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"REL","303","Japanese Religions","SSC, IC, GP","REL 303","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"REL","304","Religions of India","SSC, IC, GP","REL 304","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"REL","317","Jesus and the Gospels","A&L","REL 317","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"REL","321","History of Christianity","SSC","REL 321","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"REL","322","History of Christianity","SSC","REL 322","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"REL","323","History of Christianity","SSC","REL 323","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"REL","324","History of Eastern Christianity","SSC","REL 324","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"REL","325","History of Eastern Christianity","SSC","REL 325","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"REL","335","Introduction to the Qur'an","A&L, IC, GP","REL 335","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"REL","353","Dark Self, East and West","A&L, IP, GP","REL 353","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"REL","355","Mysticism","A&L, IP, GP","REL 355","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"REL","357","War, Terrorism, and Religion","IP, GP","REL 357","IP, GP",NA,NA,"GP",NA,"IP",NA,NA,NA
+"REL","359","Religion After Atheism","A&L, IP","REL 359","A&L, IP",NA,"AL",NA,NA,"IP",NA,NA,NA
+"REL","440","Readings in Buddhist Scriptures","IC, GP","REL 440","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"RL","151","Mediterranean Foodways","A&L, IC, GP","RL 151","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"RL","152","Feminist Lens: Italian and French Cinema","A&L, GP","RL 152","A&L, GP",NA,"AL","GP",NA,NA,NA,NA,NA
+"RUSS","201","Second-Year Russian","A&L","RUSS 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"RUSS","202","Second-Year Russian","A&L","RUSS 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"RUSS","203","Second-Year Russian","A&L","RUSS 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"RUSS","204","Introduction to Russian Literature","A&L, IC, GP","RUSS 204","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"RUSS","205","Introduction to Russian Literature","A&L, IC, GP","RUSS 205","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"RUSS","206","Introduction to Russian Literature","A&L, IC, GP","RUSS 206","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"RUSS","240","Russian Culture","A&L, IC, GP","RUSS 240","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"RUSS","316","Third-Year Russian","A&L","RUSS 316","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"RUSS","317","Third-Year Russian","A&L","RUSS 317","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"RUSS","318","Third-Year Russian","A&L","RUSS 318","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"RUSS","334","Dostoevsky","A&L, IC, GP","RUSS 334","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"RUSS","335","Tolstoy","A&L, IC, GP","RUSS 335","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"RUSS","351","Russian Literature and Film","A&L, IC, GP","RUSS 351","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"RUSS","360","Race in Russia and America","A&L, IC, GP","RUSS 360","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SBUS","250","Sports Business and Society","SSC, IC, GP","SBUS 250","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"SBUS","250N","Sports Business and Society","SSC, IC, GP","SBUS 250N","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"SCAN","220M","From Kierkegaard to Kafka","A&L, IC, GP","SCAN 220M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","251","Text and Interpretation","A&L, IC, GP","SCAN 251","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","259","Vikings through the Icelandic Sagas","A&L, IC, GP","SCAN 259","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","280M","The Quality of Life in Germany and Scandinavia","A&L, IC, GP","SCAN 280M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","315","Nordic Cinema","A&L, IC, GP","SCAN 315","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","316","History of Cinema","A&L, IC, GP","SCAN 316","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","317","Directors, Movements, and Manifestos","A&L, IC, GP","SCAN 317","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","325","Constructions versus Constrictions of Identity","A&L, IP, GP","SCAN 325","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"SCAN","341","Revisions of the Scandinavian Dream","A&L, IC, GP","SCAN 341","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","343","Norse Mythology","A&L, IC, GP","SCAN 343","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","344","Medieval Hero and Monster","IC, GP","SCAN 344","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"SCAN","345M","Food, Culture, and Identity in Germany and Scandinavia","A&L, IC, GP","SCAN 345M","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SCAN","351","Periods in Scandinavian Literature","A&L","SCAN 351","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SCAN","353","Scandinavian Women Writers","A&L, IP, GP","SCAN 353","A&L, IP, GP",NA,"AL","GP",NA,"IP",NA,NA,NA
+"SCAN","354","Genres in Scandinavian Literature","A&L, IC, GP","SCAN 354","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SOC","204","Introduction to Sociology","SSC, IP, US","SOC 204","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"SOC","207","Social Inequality","SSC, US","SOC 207","SocS, US",NA,NA,NA,NA,NA,NA,"SSC","US"
+"SOC","301","American Society","SSC, IP, US","SOC 301","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"SOC","304","Community, Environment, and Society","SSC","SOC 304","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"SOC","313","Social Issues and Movements","SSC","SOC 313","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"SOC","317","Sociology of the Mass Media","SSC","SOC 317","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"SOC","328","Self and Society","SSC","SOC 328","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"SOC","345","Race and Ethnicity","SSC, AC, US","SOC 345","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"SOC","346","Work and Occupations","SSC","SOC 346","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"SOC","355","Sociology of Gender","SSC, IP, US","SOC 355","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"SOC","380","Introduction: Deviance, Control, and Crime","SSC","SOC 380","SocS",NA,NA,NA,NA,NA,NA,"SSC",NA
+"SOC","445","Sociology of Race and Ethnicity: [Topic]","AC, US","SOC 445","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"SOC","455","Issues in Sociology of Gender: [Topic]","IP, US","SOC 455","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"SOC","456","Feminist Theory","IP, US","SOC 456","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"SPAN","150","Hispanic and Latinx Cultures","A&L, IC, GP","SPAN 150","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SPAN","201","Second-Year Spanish","A&L","SPAN 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SPAN","202","Second-Year Spanish","A&L","SPAN 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SPAN","203","Second-Year Spanish","A&L","SPAN 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SPAN","218","Latino Heritage I","A&L, AC, US","SPAN 218","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"SPAN","228","Latino Heritage II","A&L","SPAN 228","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SPAN","238","Spanish Around the World","SSC, IC, GP","SPAN 238","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"SPAN","301","Cultura y Lengua: Identidades Hispanas","A&L","SPAN 301","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SPAN","303","Cultura y lengua: expresiones artisticas","A&L","SPAN 303","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SPAN","305","Cultura y lengua: cambios sociales","A&L, IC, GP","SPAN 305","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SPAN","308","Cultura y lengua: comunidades bilingues","SSC, IP, GP","SPAN 308","SocS, IP, GP",NA,NA,"GP",NA,"IP",NA,"SSC",NA
+"SPAN","341","Hispanic Cultures through Literature I","A&L, IC, GP","SPAN 341","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SPAN","342","Hispanic Cultures through Literature II","A&L, IC, GP","SPAN 342","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SPAN","343","Hispanic Cultures through Literature III","A&L, IC, GP","SPAN 343","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SPAN","344","Hispanic Cultures through Literature IV","A&L, IC, GP","SPAN 344","A&L, IC, GP",NA,"AL","GP","IC",NA,NA,NA,NA
+"SPAN","348","United States Latino Literature and Culture","A&L, AC, US","SPAN 348","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"SPAN","350","Introduction to Poetry","A&L","SPAN 350","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SPAN","351","Introduction to Theater","A&L","SPAN 351","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SPAN","353","Introduction to Narrative","A&L","SPAN 353","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SPAN","355","Creative Writing in Spanish","IC, GP","SPAN 355","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"SPAN","480","19th-Century Spanish American Literature: [Topic]","IC, GP","SPAN 480","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"SPAN","490","20th-Century Latin American Literature: [Topic]","IC, GP","SPAN 490","IC, GP",NA,NA,"GP","IC",NA,NA,NA,NA
+"SPED","418","Disrupting the School to Prison Pipeline","AC, US","SPED 418","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"STAT","243Z","Elementary Statistics I","SC","STAT 243Z","SC",NA,NA,NA,NA,NA,"SC",NA,NA
+"SWAH","201","Second-Year Swahili","A&L","SWAH 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SWAH","202","Second-Year Swahili","A&L","SWAH 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SWAH","203","Second Year Swahili","A&L","SWAH 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SWED","201","Second-Year Swedish","A&L","SWED 201","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SWED","202","Second-Year Swedish","A&L","SWED 202","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"SWED","203","Second-Year Swedish","A&L","SWED 203","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"TA","271","Introduction to Theater Arts","A&L","TA 271","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"TA","367","History of the Theater I","A&L","TA 367","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"TA","368","History of the Theater II","A&L","TA 368","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"TA","369","History of the Theater III","A&L","TA 369","A&L",NA,"AL",NA,NA,NA,NA,NA,NA
+"TA","472","Multicultural Theater: [Topic]","AC, US","TA 472","AC, US","AC",NA,NA,NA,NA,NA,NA,"US"
+"WGS","101","Introduction to Women's and Gender Studies","SSC, IP, US","WGS 101","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"WGS","201","Introduction to Queer Studies","IP, US","WGS 201","IP, US",NA,NA,NA,NA,"IP",NA,NA,"US"
+"WGS","221","Bodies and Power","SSC, IP, US","WGS 221","SocS, IP, US",NA,NA,NA,NA,"IP",NA,"SSC","US"
+"WGS","250","Gender, Literature, and Culture","A&L, IP, US","WGS 250","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"WGS","251","Transnational and Indigenous Feminisms","SSC, IP","WGS 251","SocS, IP",NA,NA,NA,NA,"IP",NA,"SSC",NA
+"WGS","261","Gender and Popular Culture","A&L, AC, US","WGS 261","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"WGS","303","Women and Gender in American History","SSC, IP","WGS 303","SocS, IP",NA,NA,NA,NA,"IP",NA,"SSC",NA
+"WGS","311","Black Feminist Theories","A&L, AC, US","WGS 311","A&L, AC, US","AC","AL",NA,NA,NA,NA,NA,"US"
+"WGS","315","History and Development of Feminist Theory","SSC, IP","WGS 315","SocS, IP",NA,NA,NA,NA,"IP",NA,"SSC",NA
+"WGS","321","Feminist Perspectives: Identity, Race, Culture","SSC, AC, US","WGS 321","SocS, AC, US","AC",NA,NA,NA,NA,NA,"SSC","US"
+"WGS","322","Queer Theory","A&L, IP","WGS 322","A&L, IP",NA,"AL",NA,NA,"IP",NA,NA,NA
+"WGS","331","Science, Technology, and Gender","IP","WGS 331","IP",NA,NA,NA,NA,"IP",NA,NA,NA
+"WGS","341","Women, Work, and Class","SSC, IP","WGS 341","SocS, IP",NA,NA,NA,NA,"IP",NA,"SSC",NA
+"WGS","350","Literature as Feminist Theory","A&L, IP, US","WGS 350","A&L, IP, US",NA,"AL",NA,NA,"IP",NA,NA,"US"
+"WGS","351","Decolonial Feminisms","SSC, IC, GP","WGS 351","SocS, IC, GP",NA,NA,"GP","IC",NA,NA,"SSC",NA
+"WGS","361","Gender, Film, and the Media","A&L, IP","WGS 361","A&L, IP",NA,"AL",NA,NA,"IP",NA,NA,NA
+"WGS","411","Feminist Praxis","IP","WGS 411","IP",NA,NA,NA,NA,"IP",NA,NA,NA
+"WGS","411","Feminist Praxis","IP","WGS 411","IP",NA,NA,NA,NA,"IP",NA,NA,NA
+"WGS","422","Sexuality Studies: [Topic]","IP","WGS 422","IP",NA,NA,NA,NA,"IP",NA,NA,NA
+"WGS","422","Sexuality Studies: [Topic]","IP","WGS 422","IP",NA,NA,NA,NA,"IP",NA,NA,NA
